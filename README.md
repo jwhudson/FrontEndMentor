@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Screenshot
 
-![BlazorApp/wwwroot/images/NFTPreviewCard/SolutionScreenshot.png]
+![FrontEndMentor/BlazorApp/wwwroot/images/NFTPreviewCard/SolutionScreenshot.PNG]
 
 ### Links
 
