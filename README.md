@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Screenshot
 
-![./wwwroot/images/NFTPreviewCard/SolutionScreenshot.png]
+![./BlazorApp/wwwroot/images/NFTPreviewCard/SolutionScreenshot.png]
 
 ### Links
 
@@ -51,7 +51,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - [Blazor WASM](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
-- [Bootstrap] (https://getbootstrap.com/)
+- [Bootstrap] (https://getbootstrap.com)
 
 ### What I learned
 
