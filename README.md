@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Screenshot
 
-![NFT Preview Card Screenshot](FrontEndMentor/BlazorApp/wwwroot/images/NFTPreviewCard/SolutionScreenshot.PNG?raw=true)
+![NFT Preview Card Screenshot](./BlazorApp/wwwroot/images/NFTPreviewCard/SolutionScreenshot.PNG?raw=true)
 
 ### Links
 
