@@ -1,0 +1,114 @@
+﻿/**---------------------Background---------------------*/
+
+body {
+    background: hsl(217, 54%, 11%);
+}
+
+.page {
+    background-color: hsl(217, 54%, 11%);
+    height: 100%;
+    padding: 30px 0;
+    width: 100%;
+}
+
+/**---------------------Card Container---------------------*/
+.card {
+    background-color: hsl(216, 50%, 16%);
+    box-shadow: inherit;
+    font-family: 'Outfit', Arial;
+    border-radius: 8px;
+    max-width: 960px;
+}
+
+/**---------------------Card Image---------------------*/
+.image-section {
+    padding: 0;
+    position: relative;
+    max-width: 960px;
+}
+.img {
+    display: block;
+    margin: 0;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+.overlay {
+    position: absolute;
+    background-color: #00FFF7;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    border-radius: 8px;
+}
+.image-section:hover .icon {
+    opacity: 1;
+    cursor: pointer;
+}
+.image-section:hover .overlay {
+    opacity: 0.7;
+    cursor: pointer;
+}
+
+/**---------------------Card Main Text---------------------*/
+.card-text, .clock-text, .foot {
+    color: #8BACDA;
+}
+.card-title {
+    color: white;
+    padding-top: 10px;
+}
+.card-title:hover {
+    color: #00FFF7;
+    cursor: pointer;
+}
+.card-text {
+    padding-bottom: 10px;
+}
+
+
+/**---------------------Card Icon Section---------------------*/
+
+.icon {
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.icon-text {
+    padding-bottom: 20px;
+}
+.clock-text {
+    font-size: 14px;
+}
+.etherum-text {
+    color: #00FFF7;
+}
+
+/**---------------------Card Footer---------------------*/
+.foot {
+    border-top: solid 1px #2F415B;
+    font-size: 12px;
+    padding: 20px 0;
+}
+.thumbnail {
+    height: 2rem;
+    position: absolute;
+    transform: translate(50%, -25%);
+}
+.thumbnail-text {
+    position: absolute;
+    transform: translate(50%, -25%);
+}
+
+/**---------------------Link Styling---------------------*/
+a:hover {
+    text-decoration: none;
+    color: #00FFF7;
+}
