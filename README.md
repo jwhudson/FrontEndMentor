@@ -1,6 +1,6 @@
 # Frontend Mentor Projects
 
-This is a Blazor WebAssembley project that contains my solutions to the challenges contained on Frontend Mentor (https://www.frontendmentor.io/home).
+This is a Blazor WebAssembley project that contains my solutions to the challenges contained on [Frontend Mentor](https://www.frontendmentor.io/home).
 
 ## Contents
 -[NFT Preview Card](#NFT-Preview-Card)
@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Screenshot
 
-![./BlazorApp/wwwroot/images/NFTPreviewCard/SolutionScreenshot.png]
+![BlazorApp/wwwroot/images/NFTPreviewCard/SolutionScreenshot.png]
 
 ### Links
 
@@ -51,7 +51,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - [Blazor WASM](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
-- [Bootstrap] (https://getbootstrap.com)
+- [Bootstrap](https://getbootstrap.com)
 
 ### What I learned
 
